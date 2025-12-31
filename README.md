@@ -1,0 +1,2 @@
+# Splunk-SOC-Home-Lab-Centralised-Log-Forwarding-Monitoring
+This SOC-style Splunk lab simulates a real-world Security Operations Centre by centrally collecting, indexing, and analysing logs from multiple operating systems. It includes a Splunk Enterprise Indexer on Ubuntu and Universal Forwarders on Kali Linux and Windows Server, with logs forwarded over TCP (port 9997) for monitoring and validation.
