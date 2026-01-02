@@ -74,7 +74,7 @@ This lab highlights my practical experience with **SIEM deployment, log forwardi
 
 <img width="1191" height="517" alt="Image" src="https://github.com/user-attachments/assets/78d5d80d-9b84-485b-848a-13b141102768" />
 
-
+<img width="535" height="142" alt="Image" src="https://github.com/user-attachments/assets/a1d6d386-3da5-46dc-a1f3-3b389e43d7a7" />
 
 **Key commands:**
 ```bash
