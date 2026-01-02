@@ -48,6 +48,8 @@ This lab highlights my practical experience with **SIEM deployment, log forwardi
 - Verified listener using `netstat`
 - Configured Splunk to start at boot
 
+<img width="877" height="42" alt="Image" src="https://github.com/user-attachments/assets/fe2b0719-f128-4891-9899-2ef552adcaae" />
+
 **Key command:**
 ```bash
 /opt/splunk/bin/splunk enable listen 9997
