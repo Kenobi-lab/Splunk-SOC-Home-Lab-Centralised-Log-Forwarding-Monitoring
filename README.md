@@ -76,9 +76,6 @@ This lab highlights my practical experience with **SIEM deployment, log forwardi
 
 <img width="535" height="142" alt="Image" src="https://github.com/user-attachments/assets/a1d6d386-3da5-46dc-a1f3-3b389e43d7a7" />
 
-<img width="621" height="83" alt="Image" src="https://github.com/user-attachments/assets/d794c5ee-2fd4-4561-9e27-706063487693" />
-
-<img width="1651" height="442" alt="Image" src="https://github.com/user-attachments/assets/1fd220cd-3528-40ea-b280-3357d838cd66" />
 
 **Key commands:**
 ```bash
@@ -93,6 +90,8 @@ splunk add monitor /var/log
 - Configured forwarding to the same indexer
 - Monitored Windows Event Logs and system directories
 
+<img width="1632" height="733" alt="Image" src="https://github.com/user-attachments/assets/4ca0a35c-02f1-470b-a75b-11179f356004" />
+
 ---
 
 ## 🔍 Validation & Testing
@@ -104,6 +103,10 @@ To confirm successful ingestion:
   - Host
   - Source
   - Sourcetype
+
+<img width="621" height="83" alt="Image" src="https://github.com/user-attachments/assets/d794c5ee-2fd4-4561-9e27-706063487693" />
+
+<img width="1651" height="442" alt="Image" src="https://github.com/user-attachments/assets/1fd220cd-3528-40ea-b280-3357d838cd66" />
 
 **Example indexed event:**
 - Host: `kali`
