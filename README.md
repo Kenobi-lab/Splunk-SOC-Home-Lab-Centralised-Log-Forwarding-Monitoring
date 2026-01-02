@@ -70,6 +70,8 @@ This lab highlights my practical experience with **SIEM deployment, log forwardi
 - Configured forwarding to Ubuntu indexer
 - Monitored `/var/log` for system logs
 
+
+
 **Key commands:**
 ```bash
 splunk add forward-server <Indexer_IP>:9997
