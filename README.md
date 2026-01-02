@@ -92,6 +92,8 @@ splunk add monitor /var/log
 
 <img width="1632" height="733" alt="Image" src="https://github.com/user-attachments/assets/4ca0a35c-02f1-470b-a75b-11179f356004" />
 
+<img width="1122" height="112" alt="Image" src="https://github.com/user-attachments/assets/3aa8862b-efdb-41cb-a08b-3ace583619ed" />
+
 ---
 
 ## 🔍 Validation & Testing
