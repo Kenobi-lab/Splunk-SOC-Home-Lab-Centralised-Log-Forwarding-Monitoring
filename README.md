@@ -70,7 +70,7 @@ This lab highlights my practical experience with **SIEM deployment, log forwardi
 - Configured forwarding to Ubuntu indexer
 - Monitored `/var/log` for system logs
 
-
+<img width="1212" height="381" alt="Image" src="https://github.com/user-attachments/assets/18bcd773-696a-4ef3-ae98-856464234855" />
 
 **Key commands:**
 ```bash
