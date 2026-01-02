@@ -50,6 +50,8 @@ This lab highlights my practical experience with **SIEM deployment, log forwardi
 
 <img width="877" height="42" alt="Image" src="https://github.com/user-attachments/assets/fe2b0719-f128-4891-9899-2ef552adcaae" />
 
+<img width="1638" height="217" alt="Image" src="https://github.com/user-attachments/assets/bab37d2e-44c2-404a-ba90-b00cb37f9add" />
+
 **Key command:**
 ```bash
 /opt/splunk/bin/splunk enable listen 9997
