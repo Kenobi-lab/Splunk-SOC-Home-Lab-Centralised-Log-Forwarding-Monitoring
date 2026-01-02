@@ -76,6 +76,8 @@ This lab highlights my practical experience with **SIEM deployment, log forwardi
 
 <img width="535" height="142" alt="Image" src="https://github.com/user-attachments/assets/a1d6d386-3da5-46dc-a1f3-3b389e43d7a7" />
 
+<img width="621" height="83" alt="Image" src="https://github.com/user-attachments/assets/d794c5ee-2fd4-4561-9e27-706063487693" />
+
 **Key commands:**
 ```bash
 splunk add forward-server <Indexer_IP>:9997
