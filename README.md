@@ -47,6 +47,7 @@ This lab highlights my practical experience with **SIEM deployment, log forwardi
 - Enabled receiving on TCP port **9997**
 - Verified listener using `netstat`
 - Configured Splunk to start at boot
+- Generated test logs on Ubuntu Linux
 
 <img width="877" height="42" alt="Image" src="https://github.com/user-attachments/assets/fe2b0719-f128-4891-9899-2ef552adcaae" />
 
